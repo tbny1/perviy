@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Политика конфиденциальности и защиты информации.
 
-You can use the [editor on GitHub](https://github.com/tbny1/perviy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Оставляя данные на сайте, Вы соглашаетесь с Политикой конфиденциальности и защиты информации. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Защита данных 
 
-### Markdown
+Администрация интернет-магазина White Hammer на базе публичной страницы социальной сети vk.com (далее Приложение) не может передать или раскрыть информацию, предоставленную пользователем (далее Пользователь) при регистрации и использовании функций приложения третьим лицам, кроме случаев, описанных законодательством страны, на территории которой пользователь ведет свою деятельность. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Получение персональной информации 
 
-```markdown
-Syntax highlighted code block
+Для коммуникации в Приложении Пользователь не обязан вносить персональную информацию. Для проверки предоставленных данных, сайт оставляет за собой право потребовать доказательства идентичности в онлайн или офлайн режимах.
 
-# Header 1
-## Header 2
-### Header 3
+Использование персональной информации 
 
-- Bulleted
-- List
+Приложение не использует личную информацию Пользователя для обслуживания и для улучшения качества предоставляемых услуг. Личная информация может быть раскрыта в случаях, описанных законодательством, либо когда администрация сочтет подобные действия необходимыми для соблюдения юридической процедуры, судебного распоряжения или легального процесса необходимого для работы Пользователя с Приложением. В других случаях, ни при каких условиях, информация, которую Пользователь передает Сайту, не будет раскрыта третьим лицам.
 
-1. Numbered
-2. List
+Коммуникация 
 
-**Bold** and _Italic_ and `Code` text
+После того, как Пользователь оставил данные, он получает сообщение, подтверждающее его успешную регистрацию. Пользователь имеет право в любой момент прекратить получение информационных бюллетеней воспользовавшись соответствующим сервисом в Сайте.
 
-[Link](url) and ![Image](src)
-```
+Ссылки 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+В приложении могут содержаться ссылки на другие сайты. Сайт не несет ответственности за содержание, качество и политику безопасности этих сайтов. Данное заявление о конфиденциальности относится только к информации, размещенной непосредственно на сайте. 
 
-### Jekyll Themes
+Безопасность 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tbny1/perviy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Приложение обеспечивает безопасность учетной записи Пользователя от несанкционированного доступа. 
 
-### Support or Contact
+Уведомления об изменениях 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Приложение оставляет за собой право вносить изменения в Политику конфиденциальности без дополнительных уведомлений. Нововведения вступают в силу с момента их опубликования. Пользователи могут отслеживать изменения в Политике конфиденциальности самостоятельно.
